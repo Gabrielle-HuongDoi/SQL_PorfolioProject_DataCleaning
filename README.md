@@ -1,7 +1,7 @@
 # SQL_PorfolioProject_DataCleaning
 
 This is my first SQL portfolio project.
-In this project, we will create and import data from Excel file into MySQL server.
+In this project, we will clean raw data which has duplicates, wrong format of date as well as missing values.
 
 In addition, there are SQL skills involved from basic to advance such as UPDATE table, delete columns, 
 TRIM white spaces, seperate SUBSTRING, JOINS, CTE's, subqueries, Window functions, Aggregate functions, DATE convert, etc.
