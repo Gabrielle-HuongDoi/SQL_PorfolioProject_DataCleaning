@@ -1,4 +1,4 @@
-# SQL_PorfolioProject_DataCleaning
+### SQL PorfolioProject DataCleaning
 
 This is my first SQL portfolio project.
 In this project, we will clean raw data which has duplicates, wrong format of date as well as missing values.
